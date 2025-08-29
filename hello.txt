@@ -1,2 +1,2 @@
 Hello Git!
-std::cout << "This is a new feature" << stsd::endl
+std::cout << "This is a new feature" << std::endl
